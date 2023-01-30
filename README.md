@@ -31,3 +31,5 @@ Your current score is: 0/3
 ...
 
 ```
+
+At the end of the quiz, users will be presented with their final score and the total number of questions asked along with a restart quiz option. Users can choose to restart the quiz from the beginning or quit the quiz application.
